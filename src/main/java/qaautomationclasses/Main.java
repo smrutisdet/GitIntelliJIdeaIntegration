@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Fetch -Merge Example");
         System.out.println("git pull Example");
         System.out.println("Merge conflict demo-2");
+        System.out.println("Merge conflict demo-1");
     }
 }
