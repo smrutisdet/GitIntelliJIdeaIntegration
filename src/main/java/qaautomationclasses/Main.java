@@ -11,5 +11,7 @@ public class Main {
         System.out.println("git pull Example");
         System.out.println("Merge conflict demo-2");
         System.out.println("Merge conflict demo-1");
+        System.out.println("First commit in user registration branch");
+
     }
 }
