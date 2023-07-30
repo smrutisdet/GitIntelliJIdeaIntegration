@@ -21,5 +21,6 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("First commit in feature1 branch");
+        System.out.println("Second commit in feature1 branch");
     }
 }
