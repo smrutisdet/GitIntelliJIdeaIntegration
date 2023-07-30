@@ -2,10 +2,8 @@ package qaautomationclasses;
 
 public class PRMergeConflict {
     public static void main(String[] args) {
-        int i=0;
-        while(i<100){
-            System.out.println(i);
-            i++;
+        for(int i=10;i<25;i++){
+            System.out.println(i*i);
         }
     }
 
