@@ -12,6 +12,10 @@ public class Main {
         System.out.println("Merge conflict demo-2");
         System.out.println("Merge conflict demo-1");
         System.out.println("First commit in user registration branch");
+        int a=10;
+        float b=20;
+        if(a<b){
+            System.out.println("a is less than b");
         for(int i=10;i<20;i++){
             System.out.println(i);
         }
