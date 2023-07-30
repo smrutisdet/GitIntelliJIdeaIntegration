@@ -14,10 +14,12 @@ public class Main {
         System.out.println("First commit in user registration branch");
         int a=10;
         float b=20;
-        if(a<b){
+        if(a<b) {
             System.out.println("a is less than b");
+        }
         for(int i=10;i<20;i++){
             System.out.println(i);
         }
+        System.out.println("First commit in feature1 branch");
     }
 }
