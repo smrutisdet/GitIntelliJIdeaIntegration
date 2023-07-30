@@ -24,5 +24,7 @@ public class Main {
         System.out.println("Second commit in feature1 branch");
         System.out.println("New commit in master  branch");
         System.out.println("New commit in master  branch for cherry picking  demo");
+        System.out.println("Cherry picking -first commit in feature1 branch");
+
     }
 }
