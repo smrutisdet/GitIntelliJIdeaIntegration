@@ -16,6 +16,8 @@ public class Main {
         float b=20;
         if(a<b){
             System.out.println("a is less than b");
+        for(int i=10;i<20;i++){
+            System.out.println(i);
         }
     }
 }
